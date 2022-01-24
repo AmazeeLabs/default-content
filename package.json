@@ -1,0 +1,18 @@
+{
+  "name": "@-amazeelabs/default-content",
+  "author": "Amazee Labs <development@amazeelabs.com>",
+  "version": "1.1.0",
+  "scripts": {
+    "version": "sync-composer-version"
+  },
+  "devDependencies": {
+    "@amazeelabs/sync-composer-version": "^1.1.2"
+  },
+  "publishConfig": {
+    "access": "public",
+    "registry": "http://localhost:4873",
+    "repository": "git@github.com:AmazeeLabs/default-content.git",
+    "branch": "main"
+  },
+  "gitHead": "3ce2ecbc4a8dcfd26fc529c8ddef9a708ec6fe8c"
+}
