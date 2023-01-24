@@ -1,7 +1,7 @@
 {
   "name": "@-amazeelabs/default-content",
   "author": "Amazee Labs <development@amazeelabs.com>",
-  "version": "1.2.6",
+  "version": "1.2.7",
   "scripts": {
     "version": "sync-composer-version"
   },
@@ -14,5 +14,5 @@
     "repository": "git@github.com:AmazeeLabs/default-content.git",
     "branch": "main"
   },
-  "gitHead": "b352ee09b7a6570fc1804f507e20ac9291ec8675"
+  "gitHead": "064e67a4f2c17b2977b0b99016ffa9dcb640a40f"
 }
